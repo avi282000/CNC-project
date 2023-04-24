@@ -1,4 +1,5 @@
 import os
+b="Some Text for Test"
 print ("Greetings")
 a=input("Enter your passphrase:")
 if(a=="C&CG&GZH_!"):
